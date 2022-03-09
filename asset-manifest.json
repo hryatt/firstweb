@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstweb/static/css/main.073c9b0a.css",
+    "main.js": "/firstweb/static/js/main.19b7bcce.js",
+    "index.html": "/firstweb/index.html",
+    "main.073c9b0a.css.map": "/firstweb/static/css/main.073c9b0a.css.map",
+    "main.19b7bcce.js.map": "/firstweb/static/js/main.19b7bcce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19b7bcce.js"
+  ]
+}
