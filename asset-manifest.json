@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/firstweb/static/css/main.3367b2e3.css",
-    "main.js": "/firstweb/static/js/main.b98274d3.js",
+    "main.css": "/firstweb/static/css/main.5f7062ba.css",
+    "main.js": "/firstweb/static/js/main.ac0c9b10.js",
     "static/media/libre-baskerville-all-400-normal.woff": "/firstweb/static/media/libre-baskerville-all-400-normal.a6f07db719a9851092a9.woff",
     "static/media/libre-baskerville-latin-400-normal.woff2": "/firstweb/static/media/libre-baskerville-latin-400-normal.023e192311fcda1965f6.woff2",
     "static/media/libre-baskerville-latin-ext-400-normal.woff2": "/firstweb/static/media/libre-baskerville-latin-ext-400-normal.1640567abfc9542e5285.woff2",
     "index.html": "/firstweb/index.html",
-    "main.3367b2e3.css.map": "/firstweb/static/css/main.3367b2e3.css.map",
-    "main.b98274d3.js.map": "/firstweb/static/js/main.b98274d3.js.map"
+    "main.5f7062ba.css.map": "/firstweb/static/css/main.5f7062ba.css.map",
+    "main.ac0c9b10.js.map": "/firstweb/static/js/main.ac0c9b10.js.map"
   },
   "entrypoints": [
-    "static/css/main.3367b2e3.css",
-    "static/js/main.b98274d3.js"
+    "static/css/main.5f7062ba.css",
+    "static/js/main.ac0c9b10.js"
   ]
 }
